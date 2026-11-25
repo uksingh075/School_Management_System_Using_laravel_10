@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\AdminController;
+use App\Http\Controllers\;
 use App\Http\Controllers\AssignClassTeacherController;
 use App\Http\Controllers\AttendanceController;
 use App\Http\Controllers\AuthController;
